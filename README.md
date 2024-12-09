@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @darioalminana
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me darioalminana@gmail.com
+<h1>👋 Hi, I’m @darioalminana</h1>
 
-<!---
-darioalminana/darioalminana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<br><br>
+- 👀 I’m interested in Linux, Python and Fishing :D
+- 🌱 I’m currently learning Kubernetes
+
+<br><br>
+<h2>Languages and tools</h2>
